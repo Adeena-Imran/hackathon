@@ -1,6 +1,6 @@
-use :"client"
-import React, { use } from "react";
-import Link from "next/link";
+
+import React from "react";
+
 import Header from "@/components/header";
 
 const Home=()=>{
