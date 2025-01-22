@@ -5,7 +5,7 @@ import Header from "@/components/header";
 import Herosec from "@/components/herosec";
 import ProductGrid from "@/components/hero";
 import Footer from "@/components/footer";
-import ProductCards from "./products/page";
+import ProductCards from "../products/page";
 
 const Home=()=>{
   return(
